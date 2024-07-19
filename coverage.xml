@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0" branch-rate="0" lines-covered="0" lines-valid="3" branches-covered="0" branches-valid="0" complexity="1" version="0.4" timestamp="1721424704">
+  <sources>
+    <source>D:\DEV\Projets\Am2rRandoApp\src</source>
+  </sources>
+  <packages>
+    <package name="Controller\HomeController.php" line-rate="0" branch-rate="0" complexity="1">
+      <classes>
+        <class name="App\Controller\HomeController" filename="Controller\HomeController.php" line-rate="0" branch-rate="0" complexity="1">
+          <methods>
+            <method name="index" signature="" line-rate="0" branch-rate="0" complexity="1">
+              <lines>
+                <line number="14" hits="0"/>
+                <line number="15" hits="0"/>
+                <line number="16" hits="0"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0"/>
+            <line number="15" hits="0"/>
+            <line number="16" hits="0"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Kernel.php" line-rate="0" branch-rate="0" complexity="0">
+      <classes>
+        <class name="App\Kernel" filename="Kernel.php" line-rate="0" branch-rate="0" complexity="0">
+          <methods/>
+          <lines/>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
