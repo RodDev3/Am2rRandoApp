@@ -7,7 +7,8 @@ exclude_patterns = [
   "var/**",
   "vendor/**",
   "assets/vendor/**",
-  "migrations/**"
+  "migrations/**",
+  "tests/**"
 ]
 
 [[analyzers]]
@@ -15,7 +16,6 @@ name = "test-coverage"
 
 [[analyzers]]
 name = "php"
-
 
 [[transformers]]
 name = "php-cs-fixer"
