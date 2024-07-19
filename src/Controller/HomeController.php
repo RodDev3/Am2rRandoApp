@@ -18,7 +18,7 @@ class HomeController extends AbstractController
     public function index(): Response
     {
         for ($i = 0; $i < 10; $i++) {
-            echo $i;
+            echo $i; // This is a bug
         }
         return $this->render('home/index.html.twig', [
             'controller_name' => 'HomeController',
