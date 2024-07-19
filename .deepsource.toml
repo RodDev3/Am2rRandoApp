@@ -1,0 +1,17 @@
+version = 1
+
+test_patterns = ["tests/**"]
+
+exclude_patterns = [
+  "node_modules/**",
+  "var/**",
+  "vendor/**",
+  "assets/vendor/**",
+  "migrations/**"
+]
+
+[[analyzers]]
+name = "php"
+
+[[transformers]]
+name = "php-cs-fixer"
