@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.625" branch-rate="0" lines-covered="5" lines-valid="8" branches-covered="0" branches-valid="0" complexity="3" version="0.4" timestamp="1721428878">
+<coverage line-rate="0.29411764705882" branch-rate="0" lines-covered="5" lines-valid="17" branches-covered="0" branches-valid="0" complexity="11" version="0.4" timestamp="1721429073">
   <sources>
     <source>D:\DEV\Projets\Am2rRandoApp\src</source>
   </sources>
   <packages>
-    <package name="Controller\Home2Controller.php" line-rate="0" branch-rate="0" complexity="1">
+    <package name="Controller\Home2Controller.php" line-rate="0" branch-rate="0" complexity="9">
       <classes>
-        <class name="App\Controller\Home2Controller" filename="Controller\Home2Controller.php" line-rate="0" branch-rate="0" complexity="1">
+        <class name="App\Controller\Home2Controller" filename="Controller\Home2Controller.php" line-rate="0" branch-rate="0" complexity="9">
           <methods>
-            <method name="index" signature="" line-rate="0" branch-rate="0" complexity="1">
+            <method name="index" signature="" line-rate="0" branch-rate="0" complexity="9">
               <lines>
                 <line number="14" hits="0"/>
                 <line number="15" hits="0"/>
                 <line number="16" hits="0"/>
+                <line number="17" hits="0"/>
+                <line number="18" hits="0"/>
+                <line number="19" hits="0"/>
+                <line number="20" hits="0"/>
+                <line number="21" hits="0"/>
+                <line number="22" hits="0"/>
+                <line number="32" hits="0"/>
+                <line number="33" hits="0"/>
+                <line number="34" hits="0"/>
               </lines>
             </method>
           </methods>
@@ -21,6 +30,15 @@
             <line number="14" hits="0"/>
             <line number="15" hits="0"/>
             <line number="16" hits="0"/>
+            <line number="17" hits="0"/>
+            <line number="18" hits="0"/>
+            <line number="19" hits="0"/>
+            <line number="20" hits="0"/>
+            <line number="21" hits="0"/>
+            <line number="22" hits="0"/>
+            <line number="32" hits="0"/>
+            <line number="33" hits="0"/>
+            <line number="34" hits="0"/>
           </lines>
         </class>
       </classes>
