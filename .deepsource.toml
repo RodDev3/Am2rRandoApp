@@ -17,9 +17,5 @@ name = "test-coverage"
 [[analyzers]]
 name = "php"
 
-  [analyzers.meta]
-  bootstrap_files = []
-  cyclomatic_complexity_threshold = "high"
-
 [[transformers]]
 name = "php-cs-fixer"
