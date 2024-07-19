@@ -18,6 +18,7 @@ name = "test-coverage"
 name = "php"
 
   [analyzers.meta]
+  bootstrap_files = []
   cyclomatic_complexity_threshold = "high"
 
 [[transformers]]
